@@ -1,0 +1,9 @@
+
+Project Carmela is a simple starter to practice using GitHub.
+
+To start with I'm going to mess around with this Hiltmon guy's 
+very elaborate project folder structure
+
+http://hiltmon.com/blog/2012/06/30/project-folder-layout/
+
+It may be way too much.  But, for now, I'll try it.
