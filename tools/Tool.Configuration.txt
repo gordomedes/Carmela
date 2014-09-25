@@ -4,8 +4,10 @@ Instead of bundling all the binary packages for the tools into this folder.
 We'll just catalog what is being used.
 Each project work station will need to get configured with these tools.
 
-0.		GitHub - The latest GitHubSetup package 
+0.		GitHub - The latest GitHubSetup package.
 0a.		Git - I also put the latest Git down.  I did this before installing the GitHubSetup.
 1.		Microsoft Visual Studio 2013  (I've got Ultimate)
 2.		Doxygen 1.8.8 - http://hiltmon.com/blog/2012/06/30/project-folder-layout/
 			Doxygen is for doing design documents and gathering annotated code design notes.
+3.		SpecFlow - latest version, NuGet package reference.
+4.		NUnit - latest version, NuGet package reference.
